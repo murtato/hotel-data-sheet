@@ -1,0 +1,25 @@
+{
+  "name": "hotel-data-sheet",
+  "version": "1.0.0",
+  "description": "Hotel data spreadsheet",
+  "main": "app.js",
+  "dependencies": {
+    "express":"*",
+    "body-parser":"*",
+    "mongoose":"*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murtato/hotel-data-sheet.git"
+  },
+  "author": "Victor Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murtato/hotel-data-sheet/issues"
+  },
+  "homepage": "https://github.com/murtato/hotel-data-sheet#readme"
+}
